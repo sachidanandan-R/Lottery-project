@@ -1,0 +1,2 @@
+# Lottery-project
+Javascript project 
